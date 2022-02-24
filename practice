@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "we are ready to have 6 figures"
+ a=15
+ b=25
+ if [ $a -eq $b ]
+ then
+ echo " a equal to b"
+else 
+ echo "a and b is not equal"
+ fi
